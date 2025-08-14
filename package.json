@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "type": "module",
-  "homepage": "https://beratyurtoglu.github.io/GitHub-Finder",
+  "homepage": "https://beratyurtoglu.github.io/GitHub-Finder/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
